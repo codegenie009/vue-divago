@@ -1,4 +1,4 @@
-# HI! 🖐 My Name is ***Dmytro Hvozidikov***
+# HI! 🖐
 [![Netlify Status](https://api.netlify.com/api/v1/badges/66774d91-73d9-47cf-933f-e4c2c4ca0158/deploy-status)]
 <img src="https://github.com/aleen42/badges/raw/master/src/vue.svg"/>
 <img src="https://github.com/aleen42/badges/raw/master/src/node.svg"/>
